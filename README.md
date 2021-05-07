@@ -16,7 +16,9 @@ Contact us [here](https://forms.gle/SgCFCxa9t3R2tuY38). We speak French and Engl
 
 ### Google Drive
 
+- Move Drive folders and contents into a Shared Drive.
 - Change ownership of Drive folders recursively.
+- List all files recursively within a given folder.
 
 ### Media File Conversions
 
