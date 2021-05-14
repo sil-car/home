@@ -30,3 +30,4 @@ Contact us [here](https://forms.gle/SgCFCxa9t3R2tuY38). We speak French and Engl
 - Create spell check dictionary extensions for LibreOffice.
 - Set language name by paragraph for large, multilingual documents.
 - Willing to try general bulk editing of LibreOffice ODT or MSOffice DOCX files.
+- [Available downloads](https://drive.google.com/drive/folders/1yjAn5tVB4z4btCWrMImxVyidjWqK8Atj?usp=sharing)
