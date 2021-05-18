@@ -27,7 +27,6 @@ IT and Language Technology services provided by SIL CAR.
 
 ### Word Processing
 
-- Create spell check dictionary extensions for LibreOffice.
+- Create [spell check dictionary extensions](https://github.com/sil-car/libreoffice-spellcheck-dictionaries) for LibreOffice.
 - Set language name by paragraph for large, multilingual documents.
 - Willing to try general bulk editing of LibreOffice ODT or MSOffice DOCX files.
-- [Available downloads](https://drive.google.com/drive/folders/1yjAn5tVB4z4btCWrMImxVyidjWqK8Atj?usp=sharing)
